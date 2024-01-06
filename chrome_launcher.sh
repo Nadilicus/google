@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 666
+sleep 600
 
 while ((1)); 
 
